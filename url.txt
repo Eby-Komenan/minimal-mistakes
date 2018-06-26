@@ -1,0 +1,2 @@
+https://ericranstrom.github.io/ericranstrom/general/unity_github_pages/
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
